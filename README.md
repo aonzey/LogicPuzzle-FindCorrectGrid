@@ -5,7 +5,8 @@
 ## 项目描述
 
 这是一个单页HTML逻辑推理游戏。游戏目标是在一个 N×N 的网格中找出所有正确位置的格子。每个颜色的区块中只有一个正确格子，每行每列有且仅有一个正确格子，且正确的格子互不相邻。
-https://aonzey.github.io/LogicPuzzle-FindCorrectGrid/
+
+体验: https://aonzey.github.io/LogicPuzzle-FindCorrectGrid/
 
 ## 代码结构说明
 
